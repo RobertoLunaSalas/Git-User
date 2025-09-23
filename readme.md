@@ -1,3 +1,3 @@
-## Esto es el conflicto malo 2
+## Esto es el conflicto de prueba
 
-Linea nueva pero mala 2
+Linea nueva pero mala 123
