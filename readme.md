@@ -1,1 +1,3 @@
-## Hola Git! Esto es una prueba de cambio de ramas
+## Esto es el conflicto 1
+
+#Linea nueva
