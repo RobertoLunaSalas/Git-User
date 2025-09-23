@@ -1,3 +1,3 @@
-## Esto es el conflicto 1
+## Esto es el conflicto de prueba
 
 #Linea nueva
