@@ -1,3 +1,3 @@
-## Esto es el conflicto 1
+## Esto es el conflicto malo 2
 
-#Linea nueva
+Linea nueva pero mala 2
